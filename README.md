@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+# Hi there 👋!
 
 Hey there! I'm Tuomas, a passionate software developer specializing in crafting dynamic web applications. I thrive on pushing coding boundaries and fostering growth through challenges.
 
