@@ -8,7 +8,7 @@ Hey there! I'm Tuomas, a passionate software developer specializing in crafting 
 - **Frameworks:** FastAPI, Falcon, Django, React.js, Vue.js
 - **Databases:** PostgreSQL, MySQL, redis
 - **DevOps:** Docker, Git, Linux, CI/CD
-- **Cloud:** Google Cloud Platform (GCP), Google Cloud Functions
+- **Cloud:** Google Cloud Platform (GCP)
 - **Web:** REST APIs, Search engine marketing, Web Analytics
 
 ## Contact
