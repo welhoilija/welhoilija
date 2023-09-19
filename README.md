@@ -16,3 +16,7 @@ Hey there! I'm Tuomas, a passionate software developer specializing in crafting 
 Let's connect! Feel free to email me at [tkankas@gmail.com](mailto:tkankas@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/tuomas-kangas-901207170/).
 
 Looking forward to collaborating on exciting projects!
+
+---
+
+![](https://komarev.com/ghpvc/?username=welhoilija&color=green)
