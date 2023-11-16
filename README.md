@@ -18,3 +18,5 @@ Let's connect! Feel free to email me at [tkankas@gmail.com](mailto:tkankas@gmail
 Looking forward to collaborating on exciting projects!
 
 ---
+
+[![An image of @welhoilija's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/welhoilija)](https://holopin.io/@welhoilija)
