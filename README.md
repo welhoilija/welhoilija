@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Hey there! I'm Tuomas, a passionate software developer specializing in crafting dynamic web applications. I thrive on pushing coding boundaries and fostering growth through challenges.
+Hey there! I'm Tuomas, a passionate software developer specializing in crafting dynamic web applications. I enjoy pushing coding boundaries and seeking growth through challenges.
 
 ## Skills
 
